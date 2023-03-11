@@ -1,11 +1,11 @@
-# Nome do meu projeto
+# Website Comeia
 
-Rápida descrição do objetivo de fazer esse projeto
+Website feito com intuito de aprofundar meus conhecimentos em HTML E CSS e testar conceitos de responsividade, visto o que foi aprendido no COMEIA ACADEMY.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Website Comeia**
+| :label: Tecnologias | HTML, CSS (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
