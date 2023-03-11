@@ -6,7 +6,7 @@ Website feito com intuito de aprofundar meus conhecimentos em HTML E CSS e testa
 | -------------  | --- |
 | :sparkles: Nome        | **Website Comeia**
 | :label: Tecnologias | HTML, CSS (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://frolicking-blancmange-7bc5e6.netlify.app/
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
